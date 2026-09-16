@@ -592,7 +592,7 @@ local killSoundVolume = 1
 local selectedSoundId = "rbxassetid://6820230230"
 
 local soundPresets = {
-    ["사단다기"] = "rbxassetid://6820230230",
+    ["Mambo"] = "rbxassetid://119974879573475",
     ["Neverlose"] = "rbxassetid://2865227271",
     ["Skeet"] = "rbxassetid://5633691856",
     ["Rust Headshot"] = "rbxassetid://5043539486",
